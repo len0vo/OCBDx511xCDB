@@ -13,6 +13,6 @@ facts:
 one more riddle 10.24.14
 
 
-Riddle 1: 2AB6
-Riddle 2:
-Riddle 3:
+- Riddle 1: 2AB6
+- Riddle 2 (skipped): FF6703CBFF67
+- Riddle 3:
