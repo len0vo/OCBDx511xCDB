@@ -1,6 +1,13 @@
 OCBDx511xCDB
 ============
-welcome 10.20.14
+
+How are you?
+facts:
+- i play games. currently i play a lot of.........
+- i love music. playing and listening
+  - my favorite instrument can be found in a modern rock band
+- what else???
+- 
 -
--
-please come again 10.22.14
+
+one more riddle 10.24.14
