@@ -7,6 +7,7 @@ facts:
 - i love music. playing and listening
   - my favorite instrument can be found in a modern rock band
   - Kpop, Jpop, Jrock, rock, pop, classical, rnb, hiphop, rap
+- i like dancing
 - my favorite colors are green and purple
 - my favorite military jet is the F-14 tomcat
 - my favorite shoes are vans sk8 his
